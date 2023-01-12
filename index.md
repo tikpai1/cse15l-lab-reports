@@ -26,7 +26,7 @@ Horizontal rule:
 
 ---
 
-`print("Hello World")` with backticks
+`print("Hello World")` one line code
 
 ```
 # code block
