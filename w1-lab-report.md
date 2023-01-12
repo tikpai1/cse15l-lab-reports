@@ -1,1 +1,2 @@
-# Week 1 Lab Report *Hrithik Pai*
+# Week 1 Lab Report 
+*Hrithik Pai*
